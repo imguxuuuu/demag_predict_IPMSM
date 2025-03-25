@@ -1,0 +1,1 @@
+# demagnetisation_fault_analysis_PMSM
