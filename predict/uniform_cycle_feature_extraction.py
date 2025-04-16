@@ -6,7 +6,7 @@ This script extracts statistical features cycle-by-cycle from motor current data
 and predicts demagnetisation percentage using Gradient Boosting.
 
 Author: Gururaghuraman
-Date: 2025-03-18
+Date: 2024-12-18
 """
 
 import numpy as np
