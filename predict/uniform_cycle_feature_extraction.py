@@ -5,8 +5,8 @@ Demagnetisation Fault Feature Extraction and Prediction for IPMSM
 This script extracts statistical features cycle-by-cycle from motor current data
 and predicts demagnetisation percentage using Gradient Boosting.
 
-Author: [Your Name]
-Date: [YYYY-MM-DD]
+Author: Gururaghuraman
+Date: 2025-03-18
 """
 
 import numpy as np
