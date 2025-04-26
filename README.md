@@ -1,4 +1,4 @@
-# 🚘 Demagnetization Fault Analysis in IPMSM using Machine Learning
+# 🚘 Demagnetization Fault Prediction in IPMSM using Machine Learning
 
 This project focuses on early-stage detection and classification of **demagnetization faults in Interior Permanent Magnet Synchronous Motors (IPMSM)** using machine learning. It includes data preparation, model evaluation, live classification, and visualization modules.
 
