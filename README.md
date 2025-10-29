@@ -116,5 +116,5 @@ The project was developed under the guidance of Dr. Praveenkumar N (Amrita Schoo
 By: 
 1. Gururaghuraman S – BTech in Electrical and Electronics Engineering
 2. Hari Venkatesh S – BTech in Electrical and Electronics Engineering
-3. Manuprabha R – BTech in Electrical and Electronics Engineering
+3. Manuprabha Ravikumar – BTech in Electrical and Electronics Engineering
 4. Renill H – BTech in Electrical and Electronics Engineering
